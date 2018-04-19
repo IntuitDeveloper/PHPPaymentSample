@@ -1,3 +1,5 @@
+[![Sample Banner](views/Sample.png)][ss1]
+
 # PHPPaymentSample
 
 A straigtforward PHP Example for using charges.
@@ -13,3 +15,4 @@ How to run:
 6. Run the script:
 PHP SampleChargeRequest.php 
 
+[ss1]: https://help.developer.intuit.com/s/samplefeedback?cid=9010&repoName=PHPPaymentSample
