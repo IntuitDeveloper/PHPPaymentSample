@@ -1,7 +1,8 @@
-[![Sample Banner](views/Sample.png)][ss1]
+[![Sample Banner](views/Callout.png)][ss1]
 
 # PHPPaymentSample
 
+## Note : This sample uses OAuth1.0
 A straigtforward PHP Example for using charges.
 
 All the logic is hosted on SampleChargeRequest.php file. 
