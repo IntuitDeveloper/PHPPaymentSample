@@ -1,4 +1,4 @@
-[![Sample Banner](views/Sample.png)][ss1]
+[![Rate your Sample](views/Ratesample.png)][ss1][![Yes](views/Thumbup.png)][ss2][![No](views/Thumbdown.png)][ss3]
 
 # PHPPaymentSample
 
@@ -15,4 +15,6 @@ How to run:
 6. Run the script:
 PHP SampleChargeRequest.php 
 
-[ss1]: https://help.developer.intuit.com/s/samplefeedback?cid=9010&repoName=PHPPaymentSample
+[ss1]: #
+[ss2]: https://customersurveys.intuit.com/jfe/form/SV_9LWgJBcyy3NAwHc?check=Yes&checkpoint=PHPPaymentSample&pageUrl=github
+[ss3]: https://customersurveys.intuit.com/jfe/form/SV_9LWgJBcyy3NAwHc?check=No&checkpoint=PHPPaymentSample&pageUrl=githubtSample
